@@ -1,0 +1,47 @@
+html{
+  background-color: whitesmoke;
+  background-image: url(images/bg.jpg);
+  background-size: cover;
+}
+input::selection{
+  background: #4d6d9a;
+}
+a{
+  color: #4d6d9a;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+p,small{
+  display: block;
+  color:#4d6d9a;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+small{
+  margin-bottom: 4px;
+  font-size: 10px;
+}
+input { 
+  text-align: right; 
+}
+.logo{
+  height:64px;
+  display: block;
+  margin:0 auto;
+  padding-bottom: 20px;
+  border-radius: 5px;
+}
+.wrapper{
+  text-align: center;
+}
+.main{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  border-radius: 8px;
+  padding:25px;
+}
