@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gdprofits/static/css/main.1b6454ed.chunk.css",
+    "main.js": "/gdprofits/static/js/main.500c5def.chunk.js",
+    "main.js.map": "/gdprofits/static/js/main.500c5def.chunk.js.map",
+    "runtime-main.js": "/gdprofits/static/js/runtime-main.26b3b6c8.js",
+    "runtime-main.js.map": "/gdprofits/static/js/runtime-main.26b3b6c8.js.map",
+    "static/js/2.47deb267.chunk.js": "/gdprofits/static/js/2.47deb267.chunk.js",
+    "static/js/2.47deb267.chunk.js.map": "/gdprofits/static/js/2.47deb267.chunk.js.map",
+    "index.html": "/gdprofits/index.html",
+    "static/css/main.1b6454ed.chunk.css.map": "/gdprofits/static/css/main.1b6454ed.chunk.css.map",
+    "static/js/2.47deb267.chunk.js.LICENSE.txt": "/gdprofits/static/js/2.47deb267.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/gdprofits/static/media/bg.ef7b0122.jpg",
+    "static/media/logo.dc204686.png": "/gdprofits/static/media/logo.dc204686.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26b3b6c8.js",
+    "static/js/2.47deb267.chunk.js",
+    "static/css/main.1b6454ed.chunk.css",
+    "static/js/main.500c5def.chunk.js"
+  ]
+}
