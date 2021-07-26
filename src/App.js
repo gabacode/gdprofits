@@ -14,6 +14,7 @@ export default function App() {
         <img className="logo" src={logo} alt="logo"/>
         <input type="number" name="profits" min="0" onChange={handleChange} />
         <p>€{dailyProfit} daily</p>
+        <p>€{(dailyProfit * 7).toFixed(2)} per week</p>
         <p>~€{(dailyProfit * 30).toFixed(2)} per month</p>
         <p>€{(dailyProfit * 365).toFixed(2)} per year</p>
         <small>based on 0.714% daily interest</small>
