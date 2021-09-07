@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gdprofits/static/css/main.1b6454ed.chunk.css",
-    "main.js": "/gdprofits/static/js/main.e63cc797.chunk.js",
-    "main.js.map": "/gdprofits/static/js/main.e63cc797.chunk.js.map",
+    "main.js": "/gdprofits/static/js/main.172d7d3b.chunk.js",
+    "main.js.map": "/gdprofits/static/js/main.172d7d3b.chunk.js.map",
     "runtime-main.js": "/gdprofits/static/js/runtime-main.26b3b6c8.js",
     "runtime-main.js.map": "/gdprofits/static/js/runtime-main.26b3b6c8.js.map",
     "static/js/2.47deb267.chunk.js": "/gdprofits/static/js/2.47deb267.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.26b3b6c8.js",
     "static/js/2.47deb267.chunk.js",
     "static/css/main.1b6454ed.chunk.css",
-    "static/js/main.e63cc797.chunk.js"
+    "static/js/main.172d7d3b.chunk.js"
   ]
 }
